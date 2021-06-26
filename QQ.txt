@@ -1,0 +1,105 @@
+1.wait statement in selenium 
+
+2.WAP to reverse word of Character 
+	INPUT-I work in exilant
+	output-I krow ni tnalixe;
+
+3.WAP to Count no of Character in String
+
+4.What is different throw throws finally final
+
+5.Find no of link on the webpage and Verify the Title
+
+6. Draw frameWork Structure and explain
+
+7. Write Code how to fetch data from excel
+
+8. Write Code for reverse String
+
+9. Write the Code of Swapping without using third Variable.
+
+10. Explain OOp Concept
+
+11. what is buglifeCycle
+
+12. What is Smoke Testing
+
+13. what is Sanity Testing
+
+14. What is reTesting and Regression Testing
+
+15. Explain WebDriver driver=new FirFoxDriver();
+
+16. singleton class
+
+17. Garbage Collection
+
+18. Same origin policy
+
+19. Bug vs Defect
+
+20. Top second salary query
+
+21. Implicit vs Explicit wait
+
+22. Locators (8)
+
+23. Software testing Life cycle (STLC) & SDLC
+
+24. Agile
+
+25. Entering values to a texrbox without using sendkeys
+
+26. Entry & Exit Criteria
+
+27. Requirement Traceability Matrix (RTM).
+
+28. Sprint
+
+29. Scrum vs Kanban 
+
+30 Exploratory Testing
+
+31. Testing Techniques : Equivalence Partitioning & Boundary value Analysis
+
+32. Session vs cookies  
+
+33. JVM, JDK & JRE
+
+34. Overloading & Overriding
+
+35. Acess Modifier - Public private protected and Default
+
+36. Access specifier
+
+37. Abstraction, Encapsulation, Polymorphism, Inheritace
+
+> Interface
+
+> Final, Finally, Finalize
+
+> Throw, Throws, Throwable 
+
+> Exceptions
+
+>Abstract vs Interface
+
+> Assert vs verify
+
+>Soft Assert vs Hard Assert
+
+> Test harness
+
+> Log4J
+
+> Static Vs Non Static
+
+> Null pointer exception
+
+> COllection class / Collection Interface
+
+>ArrayList, LinkedList,Vector, Hashmap, Treemap,Linked Hashmap, Hashset, Queue
+
+> Garbage Collection
+
+Stack Vs Heap

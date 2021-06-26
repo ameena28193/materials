@@ -1,0 +1,16 @@
+2.WAP to reverse word of Character 
+	INPUT-I work in exilant
+	output-I krow ni tnalixe;
+
+
+3.WAP to Count no of Character in String
+
+8. Write Code for reverse String
+
+9. Write the Code of Swapping without using third Variable.
+
+2.WAP to reverse word of Character 
+	INPUT-I work in exilant
+	output-I krow ni tnalixe;
+
+3.WAP to Count no of Character in String
